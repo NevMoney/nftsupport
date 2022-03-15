@@ -1,0 +1,27 @@
+{
+  "name": "nftsupport",
+  "version": "1.0.0",
+  "description": "dapp to help you with your nft needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NevMoney/nftsupport.git"
+  },
+  "keywords": [
+    "nft",
+    "crypto",
+    "dapp"
+  ],
+  "author": "Nev K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NevMoney/nftsupport/issues"
+  },
+  "homepage": "https://github.com/NevMoney/nftsupport#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
